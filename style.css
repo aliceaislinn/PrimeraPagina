@@ -1,0 +1,22 @@
+body{
+    /*cambia el color del fondo*/
+    background-color:teal;
+    /*cambia el color del texto*/
+    color:blue;
+    /*cambia el tipo de fuente*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+h1{
+    color:brown;
+}
+h3{
+    color:chartreuse;
+}
+img{
+    width: 100px; /*ancho*/
+    /*height: ;alto*/
+}
+.maya{
+    width: 20%;
+}
